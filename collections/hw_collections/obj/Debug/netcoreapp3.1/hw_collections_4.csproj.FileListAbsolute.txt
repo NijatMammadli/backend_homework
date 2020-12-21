@@ -1,0 +1,12 @@
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\bin\Debug\netcoreapp3.1\hw_collections_4.exe
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\bin\Debug\netcoreapp3.1\hw_collections_4.deps.json
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\bin\Debug\netcoreapp3.1\hw_collections_4.runtimeconfig.json
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\bin\Debug\netcoreapp3.1\hw_collections_4.runtimeconfig.dev.json
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\bin\Debug\netcoreapp3.1\hw_collections_4.dll
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\bin\Debug\netcoreapp3.1\hw_collections_4.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\obj\Debug\netcoreapp3.1\hw_collections_4.AssemblyInfoInputs.cache
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\obj\Debug\netcoreapp3.1\hw_collections_4.AssemblyInfo.cs
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\obj\Debug\netcoreapp3.1\hw_collections_4.csproj.CoreCompileInputs.cache
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\obj\Debug\netcoreapp3.1\hw_collections_4.dll
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\obj\Debug\netcoreapp3.1\hw_collections_4.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_collections\hw_collections\obj\Debug\netcoreapp3.1\hw_collections_4.genruntimeconfig.cache
