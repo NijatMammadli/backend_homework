@@ -1,0 +1,13 @@
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\bin\Debug\netcoreapp3.1\hw_strings.exe
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\bin\Debug\netcoreapp3.1\hw_strings.deps.json
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\bin\Debug\netcoreapp3.1\hw_strings.runtimeconfig.json
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\bin\Debug\netcoreapp3.1\hw_strings.runtimeconfig.dev.json
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\bin\Debug\netcoreapp3.1\hw_strings.dll
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\bin\Debug\netcoreapp3.1\hw_strings.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\obj\Debug\netcoreapp3.1\hw_strings.AssemblyInfoInputs.cache
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\obj\Debug\netcoreapp3.1\hw_strings.AssemblyInfo.cs
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\obj\Debug\netcoreapp3.1\hw_strings.csproj.CoreCompileInputs.cache
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\obj\Debug\netcoreapp3.1\hw_strings.dll
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\obj\Debug\netcoreapp3.1\hw_strings.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\obj\Debug\netcoreapp3.1\hw_strings.genruntimeconfig.cache
+C:\Users\Nijat Mammadli\source\repos\hw_strings_1\hw_strings\obj\Debug\netcoreapp3.1\hw_strings.csprojAssemblyReference.cache
