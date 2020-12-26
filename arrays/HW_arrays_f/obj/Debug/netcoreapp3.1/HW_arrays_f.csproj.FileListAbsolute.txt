@@ -1,0 +1,12 @@
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\bin\Debug\netcoreapp3.1\HW_arrays_f.exe
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\bin\Debug\netcoreapp3.1\HW_arrays_f.deps.json
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\bin\Debug\netcoreapp3.1\HW_arrays_f.runtimeconfig.json
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\bin\Debug\netcoreapp3.1\HW_arrays_f.runtimeconfig.dev.json
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\bin\Debug\netcoreapp3.1\HW_arrays_f.dll
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\bin\Debug\netcoreapp3.1\HW_arrays_f.pdb
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\obj\Debug\netcoreapp3.1\HW_arrays_f.AssemblyInfoInputs.cache
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\obj\Debug\netcoreapp3.1\HW_arrays_f.AssemblyInfo.cs
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\obj\Debug\netcoreapp3.1\HW_arrays_f.csproj.CoreCompileInputs.cache
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\obj\Debug\netcoreapp3.1\HW_arrays_f.dll
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\obj\Debug\netcoreapp3.1\HW_arrays_f.pdb
+C:\Users\Nijat Mammadli\source\repos\HW_arrays_f\HW_arrays_f\obj\Debug\netcoreapp3.1\HW_arrays_f.genruntimeconfig.cache
