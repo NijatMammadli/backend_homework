@@ -1,0 +1,13 @@
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\bin\Debug\netcoreapp3.1\hw_methods_4.exe
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\bin\Debug\netcoreapp3.1\hw_methods_4.deps.json
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\bin\Debug\netcoreapp3.1\hw_methods_4.runtimeconfig.json
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\bin\Debug\netcoreapp3.1\hw_methods_4.runtimeconfig.dev.json
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\bin\Debug\netcoreapp3.1\hw_methods_4.dll
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\bin\Debug\netcoreapp3.1\hw_methods_4.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\obj\Debug\netcoreapp3.1\hw_methods_4.csprojAssemblyReference.cache
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\obj\Debug\netcoreapp3.1\hw_methods_4.AssemblyInfoInputs.cache
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\obj\Debug\netcoreapp3.1\hw_methods_4.AssemblyInfo.cs
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\obj\Debug\netcoreapp3.1\hw_methods_4.csproj.CoreCompileInputs.cache
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\obj\Debug\netcoreapp3.1\hw_methods_4.dll
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\obj\Debug\netcoreapp3.1\hw_methods_4.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_methods_1\hw_methods_4\obj\Debug\netcoreapp3.1\hw_methods_4.genruntimeconfig.cache
