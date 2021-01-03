@@ -1,0 +1,13 @@
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\obj\Debug\netcoreapp3.1\hw_oop_2.AssemblyInfoInputs.cache
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\obj\Debug\netcoreapp3.1\hw_oop_2.AssemblyInfo.cs
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\obj\Debug\netcoreapp3.1\hw_oop_2.csproj.CoreCompileInputs.cache
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\bin\Debug\netcoreapp3.1\hw_oop_2.exe
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\bin\Debug\netcoreapp3.1\hw_oop_2.deps.json
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\bin\Debug\netcoreapp3.1\hw_oop_2.runtimeconfig.json
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\bin\Debug\netcoreapp3.1\hw_oop_2.runtimeconfig.dev.json
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\bin\Debug\netcoreapp3.1\hw_oop_2.dll
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\bin\Debug\netcoreapp3.1\hw_oop_2.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\obj\Debug\netcoreapp3.1\hw_oop_2.dll
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\obj\Debug\netcoreapp3.1\hw_oop_2.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\obj\Debug\netcoreapp3.1\hw_oop_2.genruntimeconfig.cache
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_oop_2\obj\Debug\netcoreapp3.1\hw_oop_2.csprojAssemblyReference.cache

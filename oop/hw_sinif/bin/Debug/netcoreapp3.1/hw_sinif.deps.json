@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "hw_sinif/1.0.0": {
+        "dependencies": {
+          "hw_OOP2_1": "1.0.0"
+        },
+        "runtime": {
+          "hw_sinif.dll": {}
+        }
+      },
+      "hw_OOP2_1/1.0.0": {
+        "runtime": {
+          "hw_OOP2_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw_sinif/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "hw_OOP2_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

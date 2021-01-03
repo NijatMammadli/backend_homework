@@ -1,0 +1,17 @@
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\bin\Debug\netcoreapp3.1\hw_sinif.exe
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\bin\Debug\netcoreapp3.1\hw_sinif.deps.json
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\bin\Debug\netcoreapp3.1\hw_sinif.runtimeconfig.json
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\bin\Debug\netcoreapp3.1\hw_sinif.runtimeconfig.dev.json
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\bin\Debug\netcoreapp3.1\hw_sinif.dll
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\bin\Debug\netcoreapp3.1\hw_sinif.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\obj\Debug\netcoreapp3.1\hw_sinif.csprojAssemblyReference.cache
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\obj\Debug\netcoreapp3.1\hw_sinif.AssemblyInfoInputs.cache
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\obj\Debug\netcoreapp3.1\hw_sinif.AssemblyInfo.cs
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\obj\Debug\netcoreapp3.1\hw_sinif.csproj.CoreCompileInputs.cache
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\obj\Debug\netcoreapp3.1\hw_sinif.dll
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\obj\Debug\netcoreapp3.1\hw_sinif.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\obj\Debug\netcoreapp3.1\hw_sinif.genruntimeconfig.cache
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\bin\Debug\netcoreapp3.1\hw_OOP2_1.exe
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\bin\Debug\netcoreapp3.1\hw_OOP2_1.dll
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\bin\Debug\netcoreapp3.1\hw_OOP2_1.pdb
+C:\Users\Nijat Mammadli\source\repos\hw_oop_1\hw_sinif\obj\Debug\netcoreapp3.1\hw_sinif.csproj.CopyComplete
